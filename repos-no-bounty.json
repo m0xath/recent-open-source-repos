@@ -1,27 +1,27 @@
 {
   "schema_version": "1.0",
-  "description": "Open source repositories that are in scope for active bug bounty programs WITH NO BOUNTIES, ordered by newest stable release first.",
+  "description": "Open source repositories with NO BOUNTIES that still credit reporters with CVEs (GitHub CNA or MITRE), ordered by newest stable release first.",
   "repos": [
     {
-      "name": "",
-      "url": "",
-      "description": "",
-      "language": "",
-      "LTS": ""
+      "name": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "In-memory data structure store used as a database, cache and message broker. No bug bounty: reports go through the Redis Vulnerability Disclosure Program on HackerOne, which pays no rewards, and fixes are published as CVE-tagged advisories crediting the reporter. Latest stable release: 8.10.0 (2026-07-29).",
+      "language": "C",
+      "LTS": "No"
     },
     {
-      "name": "",
-      "url": "",
-      "description": "",
-      "language": "",
-      "LTS": ""
+      "name": "go-gitea/gitea",
+      "url": "https://github.com/go-gitea/gitea",
+      "description": "Self-hosted lightweight Git service. No bug bounty program; vulnerabilities are reported privately via GitHub security advisories and published as GHSA entries with CVEs assigned by the GitHub CNA and public reporter credit (e.g. CVE-2026-60004). Latest stable release: v1.27.1 (2026-07-28).",
+      "language": "Go",
+      "LTS": "No"
     },
     {
-      "name": "",
-      "url": "",
-      "description": "",
-      "language": "",
-      "LTS": ""
+      "name": "xwiki/xwiki-platform",
+      "url": "https://github.com/xwiki/xwiki-platform",
+      "description": "Generic enterprise wiki platform offering runtime services for applications built on top of it. No bug bounty program; hundreds of published GHSA advisories carry CVEs assigned by the GitHub CNA and credit the reporter (e.g. CVE-2026-34151). Latest stable release: xwiki-platform-18.6.0 (2026-07-27).",
+      "language": "Java",
+      "LTS": "No"
     }
   ]
 }
