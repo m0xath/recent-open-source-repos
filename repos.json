@@ -1,36 +1,24 @@
 {
   "schema_version": "1.0",
-  "description": "Sample list of open source repositories. Placeholder data for testing.",
+  "description": "Open source repositories that are in scope for active bug bounty programs, ordered by newest stable release first.",
   "repos": [
     {
-      "name": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Agentic coding tool that lives in your terminal.",
+      "name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React framework for the web. In scope for the Vercel Open Source bug bounty on HackerOne. Latest stable release: v16.2.12 (2026-07-25).",
       "language": "TypeScript"
     },
     {
-      "name": "facebook/react",
-      "url": "https://github.com/facebook/react",
-      "description": "Library for web and native user interfaces.",
-      "language": "JavaScript"
+      "name": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-grade container orchestration system. In scope for the Kubernetes bug bounty on HackerOne, funded by the CNCF. Latest stable release: v1.36.3 (2026-07-23).",
+      "language": "Go"
     },
     {
-      "name": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Systems programming language focused on safety and performance.",
-      "language": "Rust"
-    },
-    {
-      "name": "python/cpython",
-      "url": "https://github.com/python/cpython",
-      "description": "The Python programming language.",
-      "language": "Python"
-    },
-    {
-      "name": "torvalds/linux",
-      "url": "https://github.com/torvalds/linux",
-      "description": "Linux kernel source tree.",
-      "language": "C"
+      "name": "dotnet/runtime",
+      "url": "https://github.com/dotnet/runtime",
+      "description": "Cross-platform .NET runtime for cloud, mobile, desktop, and IoT apps. In scope for the Microsoft .NET Bounty Program via MSRC. Latest stable release: v10.0.10 (2026-07-15).",
+      "language": "C#"
     }
   ]
 }
