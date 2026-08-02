@@ -13,14 +13,14 @@
       "name": "kubernetes/kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-grade container orchestration system. In scope for the Kubernetes bug bounty on HackerOne, funded by the CNCF. Latest stable release: v1.36.3 (2026-07-23).",
-      "language": "Go"
+      "language": "Go",
       "LTS": ""
     },
     {
       "name": "dotnet/runtime",
       "url": "https://github.com/dotnet/runtime",
       "description": "Cross-platform .NET runtime for cloud, mobile, desktop, and IoT apps. In scope for the Microsoft .NET Bounty Program via MSRC. Latest stable release: v10.0.10 (2026-07-15).",
-      "language": "C#"
+      "language": "C#",
       "LTS": ""
     }
   ]
