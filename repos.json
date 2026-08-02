@@ -6,19 +6,22 @@
       "name": "vercel/next.js",
       "url": "https://github.com/vercel/next.js",
       "description": "The React framework for the web. In scope for the Vercel Open Source bug bounty on HackerOne. Latest stable release: v16.2.12 (2026-07-25).",
-      "language": "TypeScript"
+      "language": "TypeScript",
+      "LTS": ""
     },
     {
       "name": "kubernetes/kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-grade container orchestration system. In scope for the Kubernetes bug bounty on HackerOne, funded by the CNCF. Latest stable release: v1.36.3 (2026-07-23).",
       "language": "Go"
+      "LTS": ""
     },
     {
       "name": "dotnet/runtime",
       "url": "https://github.com/dotnet/runtime",
       "description": "Cross-platform .NET runtime for cloud, mobile, desktop, and IoT apps. In scope for the Microsoft .NET Bounty Program via MSRC. Latest stable release: v10.0.10 (2026-07-15).",
       "language": "C#"
+      "LTS": ""
     }
   ]
 }
