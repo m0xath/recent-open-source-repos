@@ -1,1 +1,36 @@
-
+{
+  "schema_version": "1.0",
+  "description": "Sample list of open source repositories. Placeholder data for testing.",
+  "repos": [
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Agentic coding tool that lives in your terminal.",
+      "language": "TypeScript"
+    },
+    {
+      "name": "facebook/react",
+      "url": "https://github.com/facebook/react",
+      "description": "Library for web and native user interfaces.",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Systems programming language focused on safety and performance.",
+      "language": "Rust"
+    },
+    {
+      "name": "python/cpython",
+      "url": "https://github.com/python/cpython",
+      "description": "The Python programming language.",
+      "language": "Python"
+    },
+    {
+      "name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree.",
+      "language": "C"
+    }
+  ]
+}
