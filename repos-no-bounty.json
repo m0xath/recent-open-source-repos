@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "description": "Open source repositories that are in scope for active bug bounty programs WITH NO BOUNTIES, ordered by newest stable release first.",
+  "repos": [
+    {
+      "name": "",
+      "url": "",
+      "description": "",
+      "language": "",
+      "LTS": ""
+    },
+      "name": "",
+      "url": "",
+      "description": "",
+      "language": "",
+      "LTS": ""
+    },
+      "name": "",
+      "url": "",
+      "description": "",
+      "language": "",
+      "LTS": ""
+    }
+  ]
+}
