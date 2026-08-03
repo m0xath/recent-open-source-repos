@@ -10,17 +10,17 @@
       "LTS": "No"
     },
     {
-      "name": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React framework for the web. In scope for the Vercel Open Source bug bounty on HackerOne. Latest stable release: v16.2.12 (2026-07-25).",
+      "name": "angular/angular-cli",
+      "url": "https://github.com/angular/angular-cli",
+      "description": "Command line interface for the Angular web framework. In scope for the Google Open Source Software VRP as a Tier 0 flagship repository. Latest stable release: v22.1.2 (2026-07-30).",
       "language": "TypeScript",
       "LTS": "No"
     },
     {
-      "name": "kubernetes/kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-grade container orchestration system. In scope for the Kubernetes bug bounty on HackerOne, funded by the CNCF. Latest stable release: v1.36.3 (2026-07-23).",
-      "language": "Go",
+      "name": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Cross-platform source code editor. In scope for the Microsoft Open Source Bounty Program, reported through the MSRC Researcher Portal. Latest stable release: 1.131.0 (2026-07-29).",
+      "language": "TypeScript",
       "LTS": "No"
     }
   ]
