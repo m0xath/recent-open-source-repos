@@ -3,25 +3,25 @@
   "description": "Open source repositories with NO BOUNTIES that still credit reporters with CVEs (GitHub CNA or MITRE), ordered by newest stable release first.",
   "repos": [
     {
-      "name": "traefik/traefik",
-      "url": "https://github.com/traefik/traefik",
-      "description": "Cloud native application proxy, reverse proxy and load balancer. No bug bounty program; the project runs an explicitly non-monetary disclosure process where reports are filed as GitHub security advisories, CVEs are assigned by the GitHub CNA and the reporter is named in the advisory credits (e.g. CVE-2026-48020). Latest stable release: v3.7.10 (2026-07-31).",
+      "name": "redaxo/core",
+      "url": "https://github.com/redaxo/core",
+      "description": "PHP and MySQL content management system in development since 2004, built around articles, modules and templates with an addon ecosystem. No bug bounty: the security policy asks only for private disclosure and offers no reward, and the project appears in no HackerOne, Bugcrowd, Intigriti or YesWeHack scope; advisories carry CVEs assigned by the GitHub CNA that credit the reporter by name (e.g. CVE-2026-53599). Latest stable release: 5.21.4 (2026-08-03).",
+      "language": "PHP",
+      "LTS": "No"
+    },
+    {
+      "name": "pterodactyl/wings",
+      "url": "https://github.com/pterodactyl/wings",
+      "description": "Server control plane for the Pterodactyl game server management panel, running each game server in an isolated Docker container and exposing HTTP and SFTP APIs. No bug bounty program; the security policy promises only a public advisory, and reports are published as GitHub security advisories with CVEs assigned by the GitHub CNA that credit the finder by name (e.g. CVE-2026-52855). Latest stable release: v1.13.2 (2026-08-03).",
       "language": "Go",
       "LTS": "No"
     },
     {
-      "name": "redis/redis",
-      "url": "https://github.com/redis/redis",
-      "description": "In-memory data structure store used as a database, cache and message broker. No bug bounty: reports go through the Redis Vulnerability Disclosure Program on HackerOne, which pays no rewards, and fixes are published as GitHub advisories with CVEs assigned by the GitHub CNA that credit the reporter by name (e.g. CVE-2026-25243). Latest stable release: 8.10.0 (2026-07-29).",
-      "language": "C",
+      "name": "WeblateOrg/weblate",
+      "url": "https://github.com/WeblateOrg/weblate",
+      "description": "Web based continuous localization platform with tight version control integration, used to manage translations for open source and commercial projects. No bug bounty: reports go through a HackerOne vulnerability disclosure program that pays no rewards, and fixes ship as GitHub security advisories with CVEs assigned by the GitHub CNA that credit the reporter by name (e.g. CVE-2026-50127). Latest stable release: weblate-2026.8 (2026-08-03).",
+      "language": "Python",
       "LTS": "No"
-    },
-    {
-      "name": "xwiki/xwiki-platform",
-      "url": "https://github.com/xwiki/xwiki-platform",
-      "description": "Generic enterprise wiki platform offering runtime services for applications built on top of it. No bug bounty program; hundreds of published GHSA advisories carry CVEs assigned by the GitHub CNA and credit the reporter (e.g. CVE-2026-40105). Latest stable release: xwiki-platform-17.10.11 (2026-07-29), the current long term support branch.",
-      "language": "Java",
-      "LTS": "Yes"
     }
   ]
 }
