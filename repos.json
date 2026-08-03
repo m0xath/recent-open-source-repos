@@ -17,10 +17,10 @@
       "LTS": "No"
     },
     {
-      "name": "Azure/azure-sdk-for-js",
-      "url": "https://github.com/Azure/azure-sdk-for-js",
-      "description": "Azure SDK client libraries for JavaScript and TypeScript. In scope for the Microsoft Open Source Bounty Program, reported through the MSRC Researcher Portal. Latest stable release: @azure/ai-voicelive_1.1.0 (2026-08-03).",
-      "language": "TypeScript",
+      "name": "Azure/azure-sdk-for-java",
+      "url": "https://github.com/Azure/azure-sdk-for-java",
+      "description": "Azure SDK client libraries for Java. In scope for the Microsoft Open Source Bounty Program, reported through the MSRC Researcher Portal. Latest stable release: com.azure+azure-ai-voicelive_1.1.0 (2026-08-03).",
+      "language": "Java",
       "LTS": "No"
     }
   ]
