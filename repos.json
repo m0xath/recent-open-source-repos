@@ -3,23 +3,23 @@
   "description": "Open source repositories that are in scope for active bug bounty programs, ordered by newest stable release first.",
   "repos": [
     {
-      "name": "nodejs/node",
-      "url": "https://github.com/nodejs/node",
-      "description": "JavaScript runtime built on the V8 engine. In scope for the Node.js bug bounty on HackerOne. Latest stable release: v26.6.0 (2026-08-03).",
-      "language": "JavaScript",
-      "LTS": "No"
-    },
-    {
-      "name": "angular/angular-cli",
-      "url": "https://github.com/angular/angular-cli",
-      "description": "Command line interface for the Angular web framework. In scope for the Google Open Source Software VRP as a Tier 0 flagship repository. Latest stable release: v22.1.2 (2026-07-30).",
+      "name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "React framework for full-stack web applications. In scope for the Vercel Open Source program on HackerOne, bounty-eligible up to critical severity. Latest stable release: v16.3.0 (2026-08-03).",
       "language": "TypeScript",
       "LTS": "No"
     },
     {
-      "name": "microsoft/vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "description": "Cross-platform source code editor. In scope for the Microsoft Open Source Bounty Program, reported through the MSRC Researcher Portal. Latest stable release: 1.131.0 (2026-07-29).",
+      "name": "Azure/azure-sdk-for-python",
+      "url": "https://github.com/Azure/azure-sdk-for-python",
+      "description": "Azure SDK client libraries for Python. In scope for the Microsoft Open Source Bounty Program, reported through the MSRC Researcher Portal. Latest stable release: azure-ai-voicelive_1.3.0 (2026-08-03).",
+      "language": "Python",
+      "LTS": "No"
+    },
+    {
+      "name": "Azure/azure-sdk-for-js",
+      "url": "https://github.com/Azure/azure-sdk-for-js",
+      "description": "Azure SDK client libraries for JavaScript and TypeScript. In scope for the Microsoft Open Source Bounty Program, reported through the MSRC Researcher Portal. Latest stable release: @azure/ai-voicelive_1.1.0 (2026-08-03).",
       "language": "TypeScript",
       "LTS": "No"
     }
