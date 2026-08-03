@@ -5,7 +5,7 @@
     {
       "name": "nodejs/node",
       "url": "https://github.com/nodejs/node",
-      "description": "JavaScript runtime built on the V8 engine. In scope for the Node.js bug bounty on HackerOne. Latest stable release: v26.5.1 (2026-07-29).",
+      "description": "JavaScript runtime built on the V8 engine. In scope for the Node.js bug bounty on HackerOne. Latest stable release: v26.6.0 (2026-08-03).",
       "language": "JavaScript",
       "LTS": "No"
     },
