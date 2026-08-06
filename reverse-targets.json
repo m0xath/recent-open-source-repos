@@ -3,23 +3,23 @@
   "description": "Reverse Engineering targerts that are in scope for active bug bounty programs and has a high possiblity of finding a bug, ordered by newest stable release first.",
   "repos": [
     {
-      "name": "",
-      "url": "",
-      "description": "",
+      "name": "spotify/save-to-spotify",
+      "url": "https://github.com/spotify/save-to-spotify",
+      "description": "Save to Spotify CLI. In scope for the Spotify HackerOne program as a DOWNLOADABLE_EXECUTABLES asset, bounty-eligible, critical max severity. Marked [Non-Core asset]; scope covers the CLI and the skill only. Release/artifact/license NOT verified this run.",
       "language": "",
       "LTS": ""
     },
     {
-      "name": "",
-      "url": "",
-      "description": "",
+      "name": "elastic/beats",
+      "url": "https://github.com/elastic/beats",
+      "description": "Elastic Beats (Auditbeat and siblings). In scope for the Elastic HackerOne program as a DOWNLOADABLE_EXECUTABLES asset, bounty-eligible, critical max severity. Must be a supported version per Elastic's EOL policy. Release/artifact/license NOT verified this run.",
       "language": "",
       "LTS": ""
     },
     {
-      "name": "",
-      "url": "",
-      "description": "",
+      "name": "DopplerHQ/cli",
+      "url": "https://github.com/DopplerHQ/cli",
+      "description": "Doppler CLI. The pre-built binary is explicitly in scope for the Doppler HackerOne program as a DOWNLOADABLE_EXECUTABLES asset, bounty-eligible, critical max severity; the source repo is in scope too. Builds published on GitHub releases and cli.doppler.com. Release/artifact/license NOT verified this run.",
       "language": "",
       "LTS": ""
     }
