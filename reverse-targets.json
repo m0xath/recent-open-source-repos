@@ -1,27 +1,27 @@
 {
   "schema_version": "1.0",
-  "description": "Open source repositories that are in scope for active bug bounty programs, ordered by newest stable release first.",
+  "description": "Reverse Engineering targerts that are in scope for active bug bounty programs and has a high possiblity of finding a bug, ordered by newest stable release first.",
   "repos": [
     {
-      "name": "ClickHouse/ClickHouse",
-      "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "Apache-2.0 licensed, column-oriented OLAP database management system written in C++ for real-time analytical reporting over SQL. In scope for the public ClickHouse bug bounty program on Bugcrowd (open, rewards $50-$2,500, full safe harbour), which lists https://github.com/ClickHouse/ClickHouse as an in-scope target in its own right, separate from the ClickHouse Cloud target; the repository's own SECURITY.md directs reports to that Bugcrowd program \"and be rewarded for it\", and the 26.6 line is listed as a supported version. Latest stable release: v26.6.2.158-stable (2026-08-04, 15:22 UTC).",
-      "language": "C++",
-      "LTS": "No"
+      "name": "",
+      "url": "",
+      "description": "",
+      "language": "",
+      "LTS": ""
     },
     {
-      "name": "justeattakeaway/pie",
-      "url": "https://github.com/justeattakeaway/pie",
-      "description": "PIE (Principles for Interfaces and Experiences), Just Eat Takeaway.com's Apache-2.0 licensed open source design system: a TypeScript monorepo publishing Web Component packages under the @justeattakeaway npm scope. In scope for the Just Eat Takeaway.com bug bounty program on Bugcrowd (open, $100-$4,500) through the org-wide in-scope asset https://github.com/justeattakeaway in the \"Source code and supply chain\" group, which carries its own reward range of P1 $1,500-$2,500, P2 $700-$1,000, P3 $100-$300; that group rewards supply chain, GitHub Actions and credential leakage findings rather than code-level bugs in the repository. Latest stable release: @justeattakeaway/pie-notification@0.24.12 (2026-08-04, 13:10 UTC).",
-      "language": "TypeScript",
-      "LTS": "No"
+      "name": "",
+      "url": "",
+      "description": "",
+      "language": "",
+      "LTS": ""
     },
     {
-      "name": "elastic/beats",
-      "url": "https://github.com/elastic/beats",
-      "description": "Lightweight Go data shippers (Filebeat, Metricbeat, Packetbeat, Auditbeat, Heartbeat, Winlogbeat, Osquerybeat) that send logs, metrics and network data to the Elastic Stack; source outside the x-pack folder is Apache-2.0 licensed. In scope for the Elastic bug bounty program on HackerOne, which lists a \"Beats\" asset naming https://github.com/elastic/beats plus per-Beat assets for each shipper, all eligible for bounty at critical maximum severity, conditioned on testing a currently supported version. Latest stable release: 9.5.0 (2026-08-04, 12:36 UTC).",
-      "language": "Go",
-      "LTS": "No"
+      "name": "",
+      "url": "",
+      "description": "",
+      "language": "",
+      "LTS": ""
     }
   ]
 }
